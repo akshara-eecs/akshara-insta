@@ -16,9 +16,9 @@ Insta485 is a social media platform developed as a comprehensive web development
 - Used Jinja2 templates for server-side rendering, ensuring content was dynamically generated for each user.
 
 ### Client-Side Dynamic Pages
-- Enhanced interactivity with JavaScript and AJAX for seamless user experiences without full-page reloads.
+- Enhanced interactivity with React.js for seamless user experiences without full-page reloads.
 - Leveraged APIs to enable client-side fetching and updating of data in real-time.
-- Implemented features such as live likes, comments, and feed updates.
+- Implemented features such as live likes, comments, and infinite scroll.
 
 ## Key Features
 - **User Authentication**: Secure login and registration systems.
