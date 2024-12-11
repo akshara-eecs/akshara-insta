@@ -29,7 +29,7 @@ Insta485 is a social media platform developed as a comprehensive web development
 
 ## Technologies Used
 - **Backend**: Python, Flask
-- **Frontend**: HTML, CSS, JavaScript, AJAX
+- **Frontend**: HTML, CSS, React.js
 - **Database**: SQLite
 - **Templating**: Jinja2
 
